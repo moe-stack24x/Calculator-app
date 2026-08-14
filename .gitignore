@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/calculateor-app/calculateor-app.vcxproj.filters
+/calculateor-app/calculateor-app.vcxproj.user
+/calculateor-app/calculateor-app.vcxproj
+.vs
